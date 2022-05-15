@@ -10,6 +10,7 @@ public class Git {
         System.out.println("hot-fix test");
         System.out.println("push test");
         System.out.println("pull test");
+        辟邪剑谱果然厉害
         
     }
 }
